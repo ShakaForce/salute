@@ -1,2 +1,2 @@
 # salute
-Small useful greeting/salutaion framework to exercise deeper knowledge of key JavaScrip concepts
+Small useful greeting/salutaion framework that exercise's deeper knowledge of key JavaScrip concepts
